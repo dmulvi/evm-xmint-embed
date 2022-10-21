@@ -14,6 +14,7 @@ import {
       const _crossmintEmbed = new CrossmintEVMWalletAdapter({
         apiKey: import.meta.env.VITE_CROSSMINT_API_KEY,
         chain: BlockchainTypes.ETHEREUM, // BlockchainTypes.ETHEREUM || BlockchainTypes.POLYGON. For solana use BlockchainTypes.SOLANA
+        environment: CrossmintEnvironment.STAGING
       });
   
       // Ask the user to sign in and give access to their publicKey
