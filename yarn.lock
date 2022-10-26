@@ -247,10 +247,10 @@
     "@babel/helper-validator-identifier" "^7.18.6"
     to-fast-properties "^2.0.0"
 
-"@crossmint/embed@^0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@crossmint/embed/-/embed-0.0.5.tgz#52c65e6dca07960ccf013d63b4d4473d6f8b6270"
-  integrity sha512-OjxpZcaEo3a4zurbCOfxQOeTqFWX23IQm5KPCn/+Lc/R0KikvanRU8++W6JjM0e2Yy4pLDIpMuvs/5EMCHvu7w==
+"@crossmint/embed@^0.0.5-alpha-1":
+  version "0.0.5-alpha-1"
+  resolved "https://registry.yarnpkg.com/@crossmint/embed/-/embed-0.0.5-alpha-1.tgz#ad69858082b89771e457c2d11a73136fcc8468c0"
+  integrity sha512-baCSdwwkkiD6QRnxvEMTcpfWb0gC1/j/p5ECePfJFAgIZ5mubPfXVc2H8SUOzQLNk94UCtBcQo+a2HFSVNAcpg==
   dependencies:
     "@solana/wallet-adapter-base" "^0.9.7"
     "@solana/web3.js" "^1.47.3"
