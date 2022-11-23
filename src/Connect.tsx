@@ -2,7 +2,7 @@ import {
     BlockchainTypes,
     CrossmintEnvironment,
     CrossmintEVMWalletAdapter,
-  } from "@crossmint/embed";
+  } from "@crossmint/connect";
   
   import { useState } from "react";
   
